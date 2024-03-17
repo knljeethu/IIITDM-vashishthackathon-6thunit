@@ -23,6 +23,16 @@ KAPU SANTHOSH
 PASALA MANOJ KUMAR REDDY
 VIDEO LINK :
 https://drive.google.com/file/d/1J6bjU4C5KWI_eUXLnRSOIGiIYweSUL6w/view?usp=sharing
+IMAGES:
+![WhatsApp Image 2024-03-17 at 11 13 31_767c1f4c](https://github.com/knljeethu/IIITDM-vashishthackathon-6thunit/assets/131071607/1a7c59a9-1795-42b5-b8c9-ed3bc539baae)
+![WhatsApp Image 2024-03-17 at 11 13 31_863deed6](https://github.com/knljeethu/IIITDM-vashishthackathon-6thunit/assets/131071607/19c848f1-eb8c-4a96-945d-0b93380c1b9a)
+![WhatsApp Image 2024-03-17 at 11 14 14_bb1f3b0d](https://github.com/knljeethu/IIITDM-vashishthackathon-6thunit/assets/131071607/913087ac-8185-48bb-a879-11a15721bad0)
+
+
+
+FLOW CHART:
+![main](https://github.com/knljeethu/IIITDM-vashishthackathon-6thunit/assets/131071607/717c293f-ff6f-4683-b2cc-ce369b45f52b)
+
 
 
 
