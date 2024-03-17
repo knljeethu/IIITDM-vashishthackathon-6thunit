@@ -38,6 +38,18 @@ FLOW CHART:
 ![main](https://github.com/knljeethu/IIITDM-vashishthackathon-6thunit/assets/131071607/717c293f-ff6f-4683-b2cc-ce369b45f52b)
 
 
+TECHNOLOGIES USED:
+CNN
+tensorflow
+os
+cv2
+inghdr
+numpy
+mathplotlib
+sequential
+conb2D
+maxpooling2D
+dense
+flatten
+dropout
 
-
- 
