@@ -43,17 +43,17 @@ FLOW CHART:
 
 
 TECHNOLOGIES USED:
-CNN
-tensorflow
-os
-cv2
-inghdr
-numpy
-mathplotlib
-sequential
-conb2D
-maxpooling2D
-dense
-flatten
+CNN,
+tensorflow.
+os,
+cv2,
+inghdr,
+numpy,
+mathplotlib,
+sequential,
+conb2D,
+maxpooling2D,
+dense,
+flatten,
 dropout
 
